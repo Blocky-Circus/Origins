@@ -1,5 +1,5 @@
 <p align="center">
-    <img src=".github/assets/logo_origins_long.png"></img><br>
+    <img src=".github/assets/logo_origins_full.png"></img><br>
     <a href="https://modrinth.com/datapack/blocky-circus-origins">
         <img src="https://img.shields.io/modrinth/v/blocky-circus-origins?style=flat-square&label=Version" alt="Version">
     </a>
