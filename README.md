@@ -1,7 +1,3 @@
-<style>
-    a {text-decoration: none;}
-</style>
-
 <p align="center">
     <img src=".github/assets/logo_origins_long.png"></img><br>
     <a href="https://modrinth.com/datapack/blocky-circus-origins">
