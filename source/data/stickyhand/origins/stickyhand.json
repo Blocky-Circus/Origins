@@ -1,0 +1,21 @@
+{
+    "name": "Sticky Hand",
+    "description": "The alien creature on your head makes you more maneuverable, at the cost of your health and weakness to fire.",
+    "icon": "minecraft:slime_ball",
+    "order": 4,
+    "impact": 1,
+    "powers":
+    [
+        "opossum:fast_swimming",
+        "opossum:increased_jump",
+        "common:climbing",
+        "stickyhand:night_vision",
+        "stickyhand:extra_reach",
+
+        "common:size_05",
+        "common:slime_particles",
+
+        "origins:fragile",
+        "stickyhand:longer_fire_duration"
+    ]
+}
