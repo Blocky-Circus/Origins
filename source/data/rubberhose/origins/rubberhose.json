@@ -10,10 +10,11 @@
         "rubberhose:pie_flight",
         "rubberhose:gravity",
         "rubberhose:bounce",
-        "rubberhose:size_change",
         "rubberhose:spinach",
         "rubberhose:inventory",
         "origins:extra_reach",
+
+        "rubberhose:size_change",
 
         "rubberhose:water_slowness",
         "common:fire_damage"

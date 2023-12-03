@@ -6,16 +6,16 @@
     "impact": 1,
     "powers":
     [
+        "stickyhand:night_vision",
+        "stickyhand:extra_reach",
         "opossum:fast_swimming",
         "opossum:increased_jump",
         "common:climbing",
-        "stickyhand:night_vision",
-        "stickyhand:extra_reach",
 
         "common:size_05",
         "common:slime_particles",
 
-        "origins:fragile",
-        "stickyhand:longer_fire_duration"
+        "stickyhand:longer_fire_duration",
+        "origins:fragile"
     ]
 }
