@@ -44,7 +44,7 @@
     "cooldown":
     {
         "type": "origins:cooldown",
-        "cooldown": 150,
+        "cooldown": 200,
         "hud_render":
         {
             "should_render": true,
