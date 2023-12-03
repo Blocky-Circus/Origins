@@ -1,5 +1,6 @@
+<center>
 <p align="center">
-    <img src=".github/assets/logo_origins_full.png"></img><br>
+    <img src="https://raw.githubusercontent.com/Blocky-Circus/Origins/main/.github/assets/logo_origins_full.png"></img><br>
     <a href="https://modrinth.com/datapack/blocky-circus-origins">
         <img src="https://img.shields.io/modrinth/v/blocky-circus-origins?style=flat-square&label=Version" alt="Version">
     </a>
@@ -16,6 +17,7 @@
         <img src="https://img.shields.io/github/contributors/Blocky-Circus/Origins?logo=github&label=Contributors&style=flat-square" alt="Contributors">
     </a>
 </p>
+</center>
 
 Blocky Circus Origins is a datapack consisting of custom origins for the Blocky Circus private server. Content within this datapack falls under the [MIT](https://github.com/DartRuffian/Blocky-Circus-Origin/blob/main/LICENSE) license.
 
